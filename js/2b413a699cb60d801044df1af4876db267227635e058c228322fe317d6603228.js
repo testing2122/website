@@ -1,0 +1,2 @@
+!function(){var r={},n={};function t(e){var o=n[e];if(void 0!==o)return o.exports;var u=n[e]={exports:{}};return r[e](u,u.exports,t),u.exports}t.rv=function(){return"1.2.8"},t.ruid="bundler=rspack@1.2.8"}();
+window.Roblox && window.Roblox.BundleDetector && window.Roblox.BundleDetector.bundleDetected("CoreRobloxUtilities");
